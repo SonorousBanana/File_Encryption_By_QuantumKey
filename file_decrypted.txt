@@ -1,0 +1,6 @@
+This text will be encrypted using a quantum key.
+
+my Username: Giorgos
+my Password: 1234567890
+
+Quantum encryption ensures the highest level of security.
